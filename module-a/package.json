@@ -1,0 +1,10 @@
+{
+  "name": "module-a",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "left-pad": "1.3.*"
+  },
+  "dependencies": {
+    "module-b": "../module-b/module-b-1.0.0.tgz"
+  }
+}
